@@ -1,0 +1,119 @@
+;Rank;Mountain;Parent mountain
+0;1;Mount Everest / Sagarmatha / Chomolungma;0
+1;2;K2 / Qogir / Godwin Austen;Mount Everest
+2;3;Kangchenjunga;Mount Everest
+3;4;Lhotse;Mount Everest
+4;5;Makalu;Mount Everest
+5;6;Cho Oyu;Mount Everest
+6;7;Dhaulagiri I;K2
+7;8;Manaslu;Cho Oyu
+8;9;Nanga Parbat;Dhaulagiri
+9;10;Annapurna I;Cho Oyu
+10;11;Gasherbrum I / Hidden Peak / K5;K2
+11;12;Broad Peak / K3;Gasherbrum I
+12;13;Gasherbrum II / K4;Gasherbrum I
+13;14;Shishapangma;Cho Oyu
+14;15;Gyachung Kang;Cho Oyu
+15;110;Gasherbrum III;Gasherbrum II
+16;16;Annapurna II;Annapurna I
+17;17;Gasherbrum IV;Gasherbrum III
+18;18;Himalchuli;Manaslu
+19;19;Distaghil Sar;K2
+20;20;Ngadi Chuli;Manaslu
+21;111;Nuptse;Lhotse
+22;21;Khunyang Chhish;Distaghil Sar
+23;22;Masherbrum / K1;Gasherbrum I
+24;23;Nanda Devi;Dhaulagiri
+25;24;Chomo Lonzo;Makalu
+26;25;Batura Sar;Distaghil Sar
+27;26;Kanjut Sar;Khunyang Chhish
+28;27;Rakaposhi;Khunyang Chhish
+29;28;Namcha Barwa;Kangchenjunga
+30;29;Kamet;Nanda Devi
+31;30;Dhaulagiri II;Dhaulagiri
+32;31;Saltoro Kangri / K10;Gasherbrum I
+33;32;Jannu;Kangchenjunga
+34;33;Tirich Mir;Batura Sar
+35;112;Molamenqing;Shishapangma
+36;34;Gurla Mandhata;Dhaulagiri
+37;35;Saser Kangri I / K22;Gasherbrum I
+38;36;Chogolisa;Masherbrum
+39;113;Dhaulagiri IV;Dhaulagiri II
+40;37;Kongur Tagh;Distaghil Sar
+41;114;Dhaulagiri V;Dhaulagiri IV
+42;38;Shispare;Batura Sar
+43;39;Trivor;Distaghil Sar
+44;40;Gangkhar Puensum;Kangchenjunga
+45;41;Gongga Shan / Minya Konka;Mount Everest
+46;42;Annapurna III;Annapurna I
+47;43;Muztagh Ata;Kongur Tagh
+48;44;Skyang Kangri;K2
+49;45;Changtse;Mount Everest
+50;46;Kula Kangri;Gangkhar Puensum
+51;47;Kongur Tiube;Kongur Tagh
+52;48;Mamostong Kangri;Gasherbrum I
+53;49;Saser Kangri II E;Saser Kangri I
+54;50;Ismoil Somoni Peak;Muztagh Ata
+55;51;Saser Kangri III;Saser Kangri I
+56;52;Noshaq;Tirich Mir
+57;53;Pumari Chhish;Khunyang Chhish
+58;54;Passu Sar;Batura Sar
+59;55;Yukshin Gardan Sar;Pumari Chhish
+60;56;Teram Kangri I;Gasherbrum I
+61;57;Jongsong Peak;Kangchenjunga
+62;58;Malubiting;Rakaposhi
+63;59;Gangapurna;Annapurna III
+64;60;Jengish Chokusu / T?m?r / Pk Pobeda;Ismail Samani Peak
+65;115;Sunanda Devi;Nanda Devi
+66;61;K12;Saltoro Kangri
+67;62;Yangra / Ganesh I;Manaslu
+68;63;Sia Kangri;Gasherbrum I
+69;64;Momhil Sar;Trivor
+70;65;Kabru N;Kangchenjunga
+71;66;Skil Brum;K2
+72;67;Haramosh Peak;Malubiting
+73;68;Istor-o-Nal;Noshaq
+74;69;Ghent Kangri;Saltoro Kangri
+75;70;Ultar;Shispare
+76;71;Rimo I;Teram Kangri I
+77;72;Churen Himal;Dhaulagiri IV
+78;73;Teram Kangri III;Teram Kangri I
+79;74;Sherpi Kangri;Ghent Kangri
+80;75;Labuche Kang;Cho Oyu
+81;76;Kirat Chuli;Kangchenjunga
+82;116;Abi Gamin;Kamet
+83;77;Nangpai Gosum;Cho Oyu
+84;117;Gimmigela / The Twins;Kangchenjunga
+85;78;Saraghrar;Noshaq
+86;79;Jomolhari;Gangkhar Puensum
+87;80;Chamlang;Lhotse
+88;81;Chongtar;Skil Brum
+89;82;Baltoro Kangri;Chogolisa
+90;83;Siguang Ri;Cho Oyu
+91;84;The Crown / Huang Guan;Skil Brum (K2)
+92;85;Gyala Peri;Mount Everest
+93;86;Porong Ri;Shisha Pangma
+94;87;Baintha Brakk / The Ogre;Kanjut Sar
+95;88;Yutmaru Sar;Yukshin Gardan Sar
+96;89;Baltistan Peak / K6;Chogolisa
+97;90;Kangpenqing / Gang Benchhen;Shisha Pangma
+98;91;Muztagh Tower;Skil Brum
+99;92;Mana Peak;Kamet
+100;118;Dhaulagiri VI;Dhaulagiri IV
+101;93;Diran;Malubiting
+102;94;Labuche Kang III / East;Labuche Kang
+103;95;Putha Hiunchuli;Churen Himal
+104;96;Apsarasas Kangri;Teram Kangri I
+105;97;Mukut Parbat;Kamet
+106;98;Rimo III;Rimo I
+107;99;Langtang Lirung;Shisha Pangma
+108;100;Karjiang;Kula Kangri
+109;101;Annapurna Dakshin;Annapurna
+110;102;Khartaphu;Mount Everest
+111;103;Tongshanjiabu;Gangkar Puensum
+112;104;Malangutti Sar;Distaghil Sar
+113;105;Noijin Kangsang / Norin Kang;Gangkar Puensum
+114;106;Langtang Ri;Shisha Pangma
+115;107;Kangphu Kang;Tongshanjiabu
+116;108;Singhi Kangri;Teram Kangri III
+117;109;Lupghar Sar;Momhil Sar
