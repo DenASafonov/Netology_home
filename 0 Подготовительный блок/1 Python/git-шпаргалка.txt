@@ -12,3 +12,7 @@ git push -u origin master
 
 git remote add origin https://github.com/DenASafonov/Netology_home.git
 git push -u origin master
+
+после отката на предыдущую ревизию вы изменили дерево локально, на сервере оно осталось старым. чтобы изменилось дерево на сервере надо было сделать
+git push --force
+, тогда дерево на сервере затрётся и будет таким-же как локальное
