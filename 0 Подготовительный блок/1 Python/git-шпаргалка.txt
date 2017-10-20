@@ -28,4 +28,9 @@ $ git fetch      ($ git fetch origin) ??
 $ git pull
 
 
- 
+Пробуем списком:
+
+git add .
+git commit -a -m '6'
+git push
+
