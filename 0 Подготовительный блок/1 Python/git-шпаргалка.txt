@@ -1,4 +1,4 @@
-…or create a new repository on the command line
+п»ївЂ¦or create a new repository on the command line
 
 echo "# Netology_home" >> README.md
 git init
@@ -8,16 +8,24 @@ git remote add origin https://github.com/DenASafonov/Netology_home.git
 git push -u origin master
 
 
-…or push an existing repository from the command line
+вЂ¦or push an existing repository from the command line
 
 git remote add origin https://github.com/DenASafonov/Netology_home.git
 git push -u origin master
 
-после отката на предыдущую ревизию вы изменили дерево локально, на сервере оно осталось старым. чтобы изменилось дерево на сервере надо было сделать
+РїРѕСЃР»Рµ РѕС‚РєР°С‚Р° РЅР° РїСЂРµРґС‹РґСѓС‰СѓСЋ СЂРµРІРёР·РёСЋ РІС‹ РёР·РјРµРЅРёР»Рё РґРµСЂРµРІРѕ Р»РѕРєР°Р»СЊРЅРѕ, РЅР° СЃРµСЂРІРµСЂРµ РѕРЅРѕ РѕСЃС‚Р°Р»РѕСЃСЊ СЃС‚Р°СЂС‹Рј. С‡С‚РѕР±С‹ РёР·РјРµРЅРёР»РѕСЃСЊ РґРµСЂРµРІРѕ РЅР° СЃРµСЂРІРµСЂРµ РЅР°РґРѕ Р±С‹Р»Рѕ СЃРґРµР»Р°С‚СЊ
 git push --force
-, тогда дерево на сервере затрётся и будет таким-же как локальное
+, С‚РѕРіРґР° РґРµСЂРµРІРѕ РЅР° СЃРµСЂРІРµСЂРµ Р·Р°С‚СЂС‘С‚СЃСЏ Рё Р±СѓРґРµС‚ С‚Р°РєРёРј-Р¶Рµ РєР°Рє Р»РѕРєР°Р»СЊРЅРѕРµ
 
-короче, заливаем так:
+РєРѕСЂРѕС‡Рµ, Р·Р°Р»РёРІР°РµРј С‚Р°Рє:
 $ git add .
 $ git commit -a -m '3'
-$ git push    // или git push --force 
+$ git push    // РёР»Рё git push --force
+
+СЃРєР°С‡РёРІР°РµРј РѕР±РЅРѕРІР»РµРЅРёСЏ С‚Р°Рє:
+$ git status
+$ git fetch      ($ git fetch origin) ??
+$ git pull
+
+
+ 
